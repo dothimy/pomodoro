@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android7Pomodoro</string>
+    <string name="password">Mật khẩu</string>
+    <string name="register">đăng ký</string>
+    <string name="usrename">Tên đăng nhập</string>
+    <string name="login">đăng nhập</string>
+</resources>
